@@ -5,7 +5,7 @@ Coding algorithms and visualizing mathematical concepts helps a lot in the learn
 This notebook contains functions that plot 1D and 2D Gaussian distributions. The goal is to understand how a probability density function (PDF) is created, and to visualize Gaussians and see how they change in space given different parameters.
 [Link to notebook on Google Colab to view the interactive content](https://colab.research.google.com/github/YZouzou/ML-Topics-Intro/blob/main/Gaussian%20Distribution.ipynb)
 
-<img src="https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/Gaussian%20Distribution.png" width="300" height="200">
+<img src="https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/Gaussian%20Distribution.png" width="600" height="500">
 
 
 ### Linear and Ridge Regression
