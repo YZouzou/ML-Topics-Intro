@@ -5,13 +5,13 @@ Coding algorithms and visualizing mathematical concepts helps a lot in the learn
 This notebook contains functions that plot 1D and 2D Gaussian distributions. The goal is to understand how a probability density function (PDF) is created, and to visualize Gaussians and see how they change in space given different parameters.
 [Link to notebook on Google Colab to view the interactive content](https://colab.research.google.com/github/YZouzou/ML-Topics-Intro/blob/main/Gaussian%20Distribution.ipynb)
 
-![Bivariate Gaussian Distribution](https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/Gaussian%20Distribution.png)
+![](https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/Gaussian%20Distribution.png){:height="50%" width="50%"}
 
 
 ### Linear and Ridge Regression
 In this notebook, I briefly introduce linear and Ridge (L2 regularized) regression and create functions for both regression methods. Then, I plot the cost function of Ridge regression for univariate and bivariate case. The goal is to visualize the effect of the regularizer on the total cost function.
 [Link to notebook on Google Colab to view the interactive content](https://colab.research.google.com/github/YZouzou/ML-Topics-Intro/blob/main/Linear%20and%20Ridge%20Regression.ipynb)
-![Ridge Cost Function](https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/Ridge.png){:height="50%" width="50%"}
+![](https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/Ridge.png){:height="50%" width="50%"}
 
 ### Lasso (L1) Regularization
 In this notebook, I briefly introduce Lasso (L1) regularization and create a function that finds linear regression coefficients using L1 regularized least squares method. Then, I plot the cost function of Lasso regularized LS linear regression for univariate and bivariate case. The notebook also contains an interactive comparison between L1 and L2 regularized cost functions.
