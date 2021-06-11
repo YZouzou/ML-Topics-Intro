@@ -15,7 +15,7 @@ In this notebook, I briefly introduce Lasso (L1) regularization and create a fun
 [Link to notebook on Google Colab to view the interactive content](https://colab.research.google.com/github/YZouzou/ML-Topics-Intro/blob/main/Lasso%20(L1)%20Regularization.ipynb)
 
 ### Regularization Paths of L1 and L2 Regularized Cost Functions
-In this notebook, the changes in linear regression coefficient values according to $\delta^{2}$ values is visualized for L2 and L1 regularizers. The effect of $\delta^{2}$ values on train and test error is also visualized.
+In this notebook, the changes in linear regression coefficient values according to regularizer coefficient values is visualized for L2 and L1 regularizers. The effect of the regularizer coefficient values on train and test error is also visualized.
 [Link to notebook on Google Colab to view the interactive content](https://colab.research.google.com/github/YZouzou/ML-Topics-Intro/blob/main/Regularization%20Paths%20of%20L1%20and%20L2.ipynb)
 
 ### Polynomial Regression
