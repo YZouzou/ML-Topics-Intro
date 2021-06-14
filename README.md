@@ -32,6 +32,13 @@ In this notebook, linear regression using polynomial features is applied and vis
 
 <img src="https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/poly_regr.png" width="400" height="300">
 
+### Gaussian Processes
+In this notebook I visualize the effects of radial basis function (RBF) kernel parameters (length scale and variance) and Gaussian noise variance in Gaussian processes. GPy package is used in this notebook.
+[Link to notebook on Google Colab to view the interactive content](https://colab.research.google.com/github/YZouzou/ML-Topics-Intro/blob/main/Gaussian%20Processes.ipynb)
+
+
+<img src="https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/GPs.png" width="800" height="500">
+
 ### Taylor Series
 This notebook contains a visualization of Taylor series representation of functions.
 [Link to notebook on Google Colab to view the interactive content](https://colab.research.google.com/github/YZouzou/ML-Topics-Intro/blob/main/Taylor%20Series.ipynb)
