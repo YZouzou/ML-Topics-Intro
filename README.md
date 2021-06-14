@@ -37,7 +37,7 @@ In this notebook I visualize the effects of radial basis function (RBF) kernel p
 [Link to notebook on Google Colab to view the interactive content](https://colab.research.google.com/github/YZouzou/ML-Topics-Intro/blob/main/Gaussian%20Processes.ipynb)
 
 
-<img src="https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/GPs.png" width="1000" height="500">
+<img src="https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/GPs.png" width="1000" height="400">
 
 ### Taylor Series
 This notebook contains a visualization of Taylor series representation of functions.
