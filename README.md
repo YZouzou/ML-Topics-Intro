@@ -50,3 +50,15 @@ This notebook contains a visual introduction to Fourier transform.
 [Link to notebook on Google Colab to view the interactive content](https://colab.research.google.com/github/YZouzou/ML-Topics-Intro/blob/main/Fourier%20Transform.ipynb)
 
 <img src="https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/Fourier.png" width="800" height="600">
+
+### Naive Bayes Classifier
+This notebook contains an implementation of Naive Bayes Clasification algorithm using both maximum likelihood estimation and Bayesian analysis. The algorithm is applied on the [Sentiment 140 dataset](https://www.kaggle.com/kazanova/sentiment140/download) from **kaggle.com**. Tweets are first filtered and vectorized before using them as inputs to the Naive Bayes classifier.
+[Link to notebook on Google Colab to view the interactive content](https://colab.research.google.com/github/YZouzou/ML-Topics-Intro/blob/main/Naive%20Bayes%20Classification.ipynb)
+
+<img src="https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/Naive%20Bayes.png" width="800" height="600">
+
+### Logistic Regression
+This notebook contains an implementation of binary logistic regression on the famous Iris dataset using gradient descent and Newton's method. An L2 regularizer is added too.
+[Link to notebook on Google Colab to view the interactive content](https://colab.research.google.com/github/YZouzou/ML-Topics-Intro/blob/main/Logistic%20Regression.ipynb)
+
+<img src="https://github.com/YZouzou/ML-Topics-Intro/blob/main/images/Logistic%20Regression.png" width="500" height="400">
